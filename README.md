@@ -9,3 +9,7 @@ Friday
 
 New class started
 learning new
+
+==========
+Updating info in local repo
+new code from LR
