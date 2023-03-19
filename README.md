@@ -5,3 +5,7 @@ Tiesday
 Wednesday
 Thusday
 Friday
+============
+
+New class started
+learning new
